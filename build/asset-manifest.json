@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a66aeedc.chunk.css",
-    "main.js": "/static/js/main.c7faf81c.chunk.js",
-    "main.js.map": "/static/js/main.c7faf81c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0997082c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0997082c.js.map",
-    "static/js/2.f564a7a3.chunk.js": "/static/js/2.f564a7a3.chunk.js",
-    "static/js/2.f564a7a3.chunk.js.map": "/static/js/2.f564a7a3.chunk.js.map",
-    "static/js/3.0e5a5ff6.chunk.js": "/static/js/3.0e5a5ff6.chunk.js",
-    "static/js/3.0e5a5ff6.chunk.js.map": "/static/js/3.0e5a5ff6.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a66aeedc.chunk.css.map": "/static/css/main.a66aeedc.chunk.css.map",
-    "static/js/2.f564a7a3.chunk.js.LICENSE.txt": "/static/js/2.f564a7a3.chunk.js.LICENSE.txt",
-    "static/media/miniturbine.f081ca51.svg": "/static/media/miniturbine.f081ca51.svg",
-    "static/media/wind_logo_white.b19ac928.png": "/static/media/wind_logo_white.b19ac928.png",
-    "static/media/windturbine.532901f9.svg": "/static/media/windturbine.532901f9.svg"
+    "main.css": "/nas/static/css/main.a66aeedc.chunk.css",
+    "main.js": "/nas/static/js/main.c7faf81c.chunk.js",
+    "main.js.map": "/nas/static/js/main.c7faf81c.chunk.js.map",
+    "runtime-main.js": "/nas/static/js/runtime-main.1f6219f2.js",
+    "runtime-main.js.map": "/nas/static/js/runtime-main.1f6219f2.js.map",
+    "static/js/2.1e2eae29.chunk.js": "/nas/static/js/2.1e2eae29.chunk.js",
+    "static/js/2.1e2eae29.chunk.js.map": "/nas/static/js/2.1e2eae29.chunk.js.map",
+    "static/js/3.0e5a5ff6.chunk.js": "/nas/static/js/3.0e5a5ff6.chunk.js",
+    "static/js/3.0e5a5ff6.chunk.js.map": "/nas/static/js/3.0e5a5ff6.chunk.js.map",
+    "index.html": "/nas/index.html",
+    "static/css/main.a66aeedc.chunk.css.map": "/nas/static/css/main.a66aeedc.chunk.css.map",
+    "static/js/2.1e2eae29.chunk.js.LICENSE.txt": "/nas/static/js/2.1e2eae29.chunk.js.LICENSE.txt",
+    "static/media/miniturbine.f081ca51.svg": "/nas/static/media/miniturbine.f081ca51.svg",
+    "static/media/wind_logo_white.b19ac928.png": "/nas/static/media/wind_logo_white.b19ac928.png",
+    "static/media/windturbine.532901f9.svg": "/nas/static/media/windturbine.532901f9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0997082c.js",
-    "static/js/2.f564a7a3.chunk.js",
+    "static/js/runtime-main.1f6219f2.js",
+    "static/js/2.1e2eae29.chunk.js",
     "static/css/main.a66aeedc.chunk.css",
     "static/js/main.c7faf81c.chunk.js"
   ]
