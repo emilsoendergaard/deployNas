@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/NAS_Prototype/static/css/main.a66aeedc.chunk.css",
-    "main.js": "/NAS_Prototype/static/js/main.c7faf81c.chunk.js",
-    "main.js.map": "/NAS_Prototype/static/js/main.c7faf81c.chunk.js.map",
-    "runtime-main.js": "/NAS_Prototype/static/js/runtime-main.39c0cc99.js",
-    "runtime-main.js.map": "/NAS_Prototype/static/js/runtime-main.39c0cc99.js.map",
-    "static/js/2.2a65d192.chunk.js": "/NAS_Prototype/static/js/2.2a65d192.chunk.js",
-    "static/js/2.2a65d192.chunk.js.map": "/NAS_Prototype/static/js/2.2a65d192.chunk.js.map",
-    "static/js/3.0e5a5ff6.chunk.js": "/NAS_Prototype/static/js/3.0e5a5ff6.chunk.js",
-    "static/js/3.0e5a5ff6.chunk.js.map": "/NAS_Prototype/static/js/3.0e5a5ff6.chunk.js.map",
-    "index.html": "/NAS_Prototype/index.html",
-    "static/css/main.a66aeedc.chunk.css.map": "/NAS_Prototype/static/css/main.a66aeedc.chunk.css.map",
-    "static/js/2.2a65d192.chunk.js.LICENSE.txt": "/NAS_Prototype/static/js/2.2a65d192.chunk.js.LICENSE.txt",
-    "static/media/miniturbine.f081ca51.svg": "/NAS_Prototype/static/media/miniturbine.f081ca51.svg",
-    "static/media/wind_logo_white.b19ac928.png": "/NAS_Prototype/static/media/wind_logo_white.b19ac928.png",
-    "static/media/windturbine.532901f9.svg": "/NAS_Prototype/static/media/windturbine.532901f9.svg"
+    "main.css": "/static/css/main.a66aeedc.chunk.css",
+    "main.js": "/static/js/main.c7faf81c.chunk.js",
+    "main.js.map": "/static/js/main.c7faf81c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0997082c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0997082c.js.map",
+    "static/js/2.f564a7a3.chunk.js": "/static/js/2.f564a7a3.chunk.js",
+    "static/js/2.f564a7a3.chunk.js.map": "/static/js/2.f564a7a3.chunk.js.map",
+    "static/js/3.0e5a5ff6.chunk.js": "/static/js/3.0e5a5ff6.chunk.js",
+    "static/js/3.0e5a5ff6.chunk.js.map": "/static/js/3.0e5a5ff6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a66aeedc.chunk.css.map": "/static/css/main.a66aeedc.chunk.css.map",
+    "static/js/2.f564a7a3.chunk.js.LICENSE.txt": "/static/js/2.f564a7a3.chunk.js.LICENSE.txt",
+    "static/media/miniturbine.f081ca51.svg": "/static/media/miniturbine.f081ca51.svg",
+    "static/media/wind_logo_white.b19ac928.png": "/static/media/wind_logo_white.b19ac928.png",
+    "static/media/windturbine.532901f9.svg": "/static/media/windturbine.532901f9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.39c0cc99.js",
-    "static/js/2.2a65d192.chunk.js",
+    "static/js/runtime-main.0997082c.js",
+    "static/js/2.f564a7a3.chunk.js",
     "static/css/main.a66aeedc.chunk.css",
     "static/js/main.c7faf81c.chunk.js"
   ]
