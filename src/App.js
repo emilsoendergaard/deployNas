@@ -1,7 +1,7 @@
 import "./App.css";
 import WindParkPage from "./components/pages/windParkPage";
 import NavigationBar from "./components/navigationBar";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import WindMillPage from "./components/pages/windMillPage";
 import React from "react";
 import mqtt from "./components/MQTT/controller";
@@ -72,7 +72,7 @@ function App() {
 
   return (
 
-    <Router>
+    <HashRouter>
       <NavigationBar SetWindTurbineStage={SetWindTurbineStage} WindTurbine={windTurbine} />
 
       <Switch>
@@ -94,7 +94,7 @@ function App() {
           render={() => <OilSensorPage ISO4406={ISO4406} Particles={particles} WindTurbine={windTurbine} OilData={oilData} OilTemp={temp} OilCondData={oilCondData} Fatigue={fatigue}/>}
         />
       </Switch>
-    </Router>
+    </HashRouter>
 
   );
 }
