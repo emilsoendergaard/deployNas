@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deployNas/static/css/main.a66aeedc.chunk.css",
+    "main.js": "/deployNas/static/js/main.1bd09386.chunk.js",
+    "main.js.map": "/deployNas/static/js/main.1bd09386.chunk.js.map",
+    "runtime-main.js": "/deployNas/static/js/runtime-main.7343e5d3.js",
+    "runtime-main.js.map": "/deployNas/static/js/runtime-main.7343e5d3.js.map",
+    "static/js/2.00d03fca.chunk.js": "/deployNas/static/js/2.00d03fca.chunk.js",
+    "static/js/2.00d03fca.chunk.js.map": "/deployNas/static/js/2.00d03fca.chunk.js.map",
+    "static/js/3.487db446.chunk.js": "/deployNas/static/js/3.487db446.chunk.js",
+    "static/js/3.487db446.chunk.js.map": "/deployNas/static/js/3.487db446.chunk.js.map",
+    "index.html": "/deployNas/index.html",
+    "static/css/main.a66aeedc.chunk.css.map": "/deployNas/static/css/main.a66aeedc.chunk.css.map",
+    "static/js/2.00d03fca.chunk.js.LICENSE.txt": "/deployNas/static/js/2.00d03fca.chunk.js.LICENSE.txt",
+    "static/media/miniturbine.f081ca51.svg": "/deployNas/static/media/miniturbine.f081ca51.svg",
+    "static/media/wind_logo_white.b19ac928.png": "/deployNas/static/media/wind_logo_white.b19ac928.png",
+    "static/media/windturbine.532901f9.svg": "/deployNas/static/media/windturbine.532901f9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7343e5d3.js",
+    "static/js/2.00d03fca.chunk.js",
+    "static/css/main.a66aeedc.chunk.css",
+    "static/js/main.1bd09386.chunk.js"
+  ]
+}
